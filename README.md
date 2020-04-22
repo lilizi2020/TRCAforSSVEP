@@ -1,5 +1,7 @@
 # TRCAforSSVEP
 Task-Related Component Analysis(TRCA)
+
+![JUVeCd.png](https://s1.ax1x.com/2020/04/22/JUVeCd.png)
 # Intro
 - 数据采用benchmark dataset受试者1滤波(6~90Hz)后的数据；
 - 数据长度为1.5s，采样率250Hz；
